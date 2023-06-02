@@ -1,6 +1,11 @@
 # aula-array
 
-Metodos Array
+## O que é um Array ? 
+
+Em JavaScript, um array é uma estrutura de dados que armazena uma coleção ordenada de elementos. Os elementos podem ser de qualquer tipo, como números, strings, objetos e até mesmo outros arrays.
+
+
+Métodos Array
 
 Listar- console.log(listA.length)
 
